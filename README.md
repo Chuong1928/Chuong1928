@@ -14,8 +14,8 @@
 
 I'm a **Graduate Student 👨🏽‍💼 [@HUSC](http://husc.hueuni.edu.vn/)** in Hue University of Science. <br />
 I'm a **Web Developer**  <br />
-I strongest know some javascript things. I'll try my best to master 📢  <br />
-Besides programming, I'm love Yorushika music <br />
+i have more than 1 year experience working with ruby on rails.
+I'm love league of legend. I've been playing League of Legends for seven years<br />
 
   <img align="right" alt="GIF" src="https://c.tenor.com/kFNtXOJGyooAAAAC/azura-bonk-azura.gif" width="250px"/>
   
