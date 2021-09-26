@@ -22,10 +22,9 @@ Besides programming, I'm love Yorushika music <br />
 **Miscellaneous:**
 
   - 🤹🏽 Fields I enjoy the most : 
-  - 🎛 Security
+  - 🎛 Ruby on Rails
   - 🖼 Computer Vision
-  - 🛠 DIY IoT
-  - Mobile
+  - 🛠 Desgin UI
   - Web Technology
   - 💬 Ask me about anything, I am happy to help;
   - 📫 How to reach me: <ngoquytruong1999t@gmail.com>;
@@ -38,8 +37,8 @@ Besides programming, I'm love Yorushika music <br />
 
 💬 Languages: 
 Ruby                       █████████████████░░░░░░░░   69.81% 
-Objective C               ████████░░░░░░░░░░░░░░░░░░   20% 
-Java                   ██████████░░░░░░░░░░░░░░░░░      35% 
+Objective C                ████████░░░░░░░░░░░░░░░░░░   20% 
+Java                       ██████████░░░░░░░░░░░░░░░░░      35% 
 ```
 
 
