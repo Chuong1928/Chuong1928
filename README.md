@@ -27,8 +27,8 @@ I'm love league of legend. I've been playing League of Legends for seven years<b
   - 🛠 Desgin UI
   - Web Technology
   - 💬 Ask me about anything, I am happy to help;
-  - 📫 How to reach me: <ngoquytruong1999t@gmail.com>;
-  - 📝[Resume]()
+  - 📫 How to reach me: <ngoquytruong1999@gmail.com>;
+  - 📝[Resume](ngoquytruong1999@gmail.com)
 
 **Showcase:**
 
