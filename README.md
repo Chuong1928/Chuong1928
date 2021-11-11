@@ -3,7 +3,7 @@
 
 <br/>
 <a href="https://www.facebook.com/NgoQuyTruongg/">
-  <img align="left" alt="guilyx's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img align="left" alt="guilyx's Meta" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
 <a href="https://www.instagram.com/nqoquytruonq/">
   <img align="left" alt="guilyx's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
