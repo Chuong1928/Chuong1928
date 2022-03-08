@@ -2,7 +2,7 @@
 ### Hello 👋, I'm [>_QuyTruong](https://www.facebook.com/NgoQuyTruongg/) 
 
 <br/>
-I'm a **Graduate Student 👨🏽‍💼 [@HUSC](http://husc.hueuni.edu.vn/)** in Hue University of Science. <br />
+I'm a **Graduate Student 👨🏽‍💼 [@HUSC](http://husc.hueuni.edu.vn/) in Hue University of Science. <br />
 I'm a **Web Developer**  <br />
 i have more than 1 year experience working with ruby on rails.
 I'm love league of legend. I've been playing League of Legends for seven years<br />
