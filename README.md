@@ -2,25 +2,22 @@
 ### Hello 👋, I'm [>_QuyTruong](https://www.facebook.com/NgoQuyTruongg/) 
 
 <br/>
-I'm a **Graduate Student 👨🏽‍💼 [@HUSC](http://husc.hueuni.edu.vn/) in Hue University of Science. <br />
-I'm a **Web Developer**  <br />
-i have more than 1 year experience working with ruby on rails.
-I'm love league of legend. I've been playing League of Legends for seven years<br />
+I'm a <strong> Graduate Student </strong> 👨🏽‍💼 in <em> <a href="http://husc.hueuni.edu.vn/"> Hue University of Science </a>.</em> <br />
+I'm a <strong> Web Developer </strong> <br />
+I have more than 1 year experience working with ruby on rails .
 
   <img align="right" alt="GIF" src="https://c.tenor.com/kFNtXOJGyooAAAAC/azura-bonk-azura.gif" width="250px"/>
   
 **Miscellaneous:**
-
-  - 🤹🏽 Fields I enjoy the most : 
-  - 🎛 Ruby on Rails
-  - 🖼 Computer Vision
-  - 🛠 Desgin UI
-  - Web Technology
-  - 💬 Ask me about anything, I am happy to help;
-  - 📫 How to reach me: <ngoquytruong1999@gmail.com>;
-  - 📝[Resume](ngoquytruong1999@gmail.com)
-
-**Showcase:**
+  ```javascript
+		"- ⚡ Quick bio:":                     "Hello World",
+		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
+		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
+		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
+		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
+		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
+		"- 📫 How to reach me:":              " 📫 to 6789tyh@gmail.com",
+  ```
 ## Skills 👨🏻‍💻
 
 <p>
@@ -56,4 +53,5 @@ Java                       ██████████░░░░░░░�
 
 
 ![guilyx's github stats](https://github-readme-stats.vercel.app/api?username=chuong1928&show_icons=true&hide_border=true)
-
+</br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
