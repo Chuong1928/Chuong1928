@@ -1,5 +1,5 @@
 
-### Hello 👋, I'm [>_QuyTruong](https://www.facebook.com/NgoQuyTruongg/) 
+### Hello 👋, I'm [>_NgoQuyTruong](https://www.facebook.com/NgoQuyTruongg/) 
 
 <br/>
 I'm a <strong> Graduate Student </strong> 👨🏽‍💼 in <em> <a href="http://husc.hueuni.edu.vn/"> Hue University of Science </a>.</em> <br />
@@ -10,13 +10,11 @@ I have more than 1 year experience working with ruby on rails .
   
 **Miscellaneous:**
   ```javascript
-		"- ⚡ Quick bio:":                     "Hello World",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              " 📫 to 6789tyh@gmail.com",
+		"🤔 FullName:":                     "Ngo Quy Truong",
+		"🔭 Age":      		            "24",
+		"⚡ Current Level/Position":        "Fresher Dev",
+		"👯 Main Skill": 		    "Ruby on Rails...",
+		"📫 How to reach me:":              " 📫 to ngoquytruong1999@gmail.com",
   ```
 ## Skills 👨🏻‍💻
 
