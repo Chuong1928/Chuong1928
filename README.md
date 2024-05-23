@@ -10,16 +10,17 @@ I have more than 3 year experience working with Ruby on Rails and enjoy building
 
 
 
-  <img align="right" alt="GIF" src="https://c.tenor.com/kFNtXOJGyooAAAAC/azura-bonk-azura.gif" width="250px"/>
+  <img align="right" alt="GIF" src="https://c.tenor.com/kFNtXOJGyooAAAAC/azura-bonk-azura.gif" width="280px" height="220px"/>
   
 **Miscellaneous:**
-  ```javascript
-		🤔 FullName:                     Ngo Quy Truong,
-		🔭 Age:      		         25,
-		⚡ Current Level/Position:        Web Developer,
-		👯 Main Skill: 		    	 Ruby on Rails, Nodejs, PHP...,
-		📫 How to reach me::             📫 to ngoquytruong1999@gmail.com,
-  ```
+```ruby
+	🤔 FullName:                     Ngo Quy Truong,
+	🔭 Age:      		         25,
+        👋 Address:			 HaNoi
+ 	⚡  Current Level/Position:       Web Developer,
+	👯 Main Skill: 		    	 Ruby on Rails, Nodejs, PHP...,
+	📫 How to reach me::             📫 to ngoquytruong1999@gmail.com,
+```
 ## Skills 👨🏻‍💻
 
 <p>
