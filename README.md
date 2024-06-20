@@ -5,8 +5,14 @@
 I'm a <strong> Graduate Student </strong> 👨🏽‍💼 in <em> <a href="http://husc.hueuni.edu.vn/"> Hue University of Science </a>.</em> <br />
 I'm a <strong> Web Developer </strong> <br />
 I'm a <strong> Fullstack Developer </strong> 👨🏽‍💻 with expertise in <em> <a href="https://www.ruby-lang.org/"> Ruby </a> </em> and <em> <a href="https://rubyonrails.org/"> Ruby on Rails </a>.</em> <br />
-I have experience in <strong> Git </strong>, <strong> GitHub </strong>, <strong> Databases </strong>, <strong> ReactJS </strong>, and <strong> NextJS </strong>. <br />
 I have more than 3 year experience working with Ruby on Rails and enjoy building web applications that solve real-world problems.
+<span>===========================================================================================================</span>
+<br/>
+<br/>
+
+<strong> Important 👇 </strong>
+<br/>
+I have experience in <strong> Git</strong>, <strong>GitHub </strong>, <strong> Databases</strong>,<strong> AWS </strong>,<strong> ReactJS </strong>, and <strong> NextJS </strong>. <br />
 
 
 
