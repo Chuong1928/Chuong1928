@@ -5,14 +5,14 @@
 I'm a <strong> Graduate Student </strong> 👨🏽‍💼 in <em> <a href="http://husc.hueuni.edu.vn/"> Hue University of Science </a>.</em> <br />
 I'm a <strong> Web Developer </strong> <br />
 I'm a <strong> Fullstack Developer </strong> 👨🏽‍💻 with expertise in <em> <a href="https://www.ruby-lang.org/"> Ruby </a> </em> and <em> <a href="https://rubyonrails.org/"> Ruby on Rails </a>.</em> <br />
-I have more than 3 year experience working with Ruby on Rails and enjoy building web applications that solve real-world problems.
+I have more than 5 year experience working with Ruby on Rails and enjoy building web applications that solve real-world problems.
 <span>===========================================================================================================</span>
 <br/>
 <br/>
 
 <strong> Important 👇 </strong>
 <br/>
-I have experience in <strong> Git</strong>, <strong>GitHub </strong>, <strong> Databases</strong>,<strong> AWS </strong>,<strong> ReactJS </strong>, and <strong> NextJS </strong>. <br />
+I have experience in <strong> DevOps </strong>, <strong> Backend </strong>, <strong> Front-end </strong>, <strong> Databases </strong>,<strong> AWS </strong>, <strong> Microsoft Azure </strong>, and <strong> Infrastructure </strong>. <br />
 
 
 
@@ -23,14 +23,17 @@ I have experience in <strong> Git</strong>, <strong>GitHub </strong>, <strong> D
 	🤔 FullName:                     Ngo Quy Truong,
 	🔭 Age:      		         25,
         👋 Address:			 HaNoi
- 	⚡  Current Level/Position:       Web Developer,
-	👯 Main Skill: 		    	 Ruby on Rails, Nodejs, PHP...,
+ 	⚡ Current Level/Position:       Developer | PM,
+	👯 Main Skill: 		    	 Ruby, Nodejs, PHP...,
 	📫 How to reach me::             📫 to ngoquytruong1999@gmail.com,
 ```
 ## Skills 👨🏻‍💻
 
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="ruby" src="https://img.shields.io/badge/-Ruby-E34F26?style=flat-square&logo=ruby&logoColor=white" />
+  <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-CC6699?style=flat-square&logo=node&logoColor=white" />
+  <img alt="aws" src="https://img.shields.io/badge/-Ruby-E34F26?style=flat-square&logo=ruby&logoColor=white" />
+  <img alt="azure" src="https://img.shields.io/badge/-Azure-E34F26?style=flat-square&logo=azure&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0969da?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8250df?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -55,12 +58,16 @@ I have experience in <strong> Git</strong>, <strong>GitHub </strong>, <strong> D
 ⌚︎ Timezone: Asia/Ho_Chi_Minh
 
 💬 Languages: 
-Ruby                       ██████████████████████████████████████████████████████████████████░░░░░░░░░░░░░   80.81% 
-PHP                	   █████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   60% 
-JavaScript                 ██████████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░   75.60% 
+Ruby                       ██████████████████████████████████████████████████████████████████████████████    99.81% 
+PHP                	   ████████████████████████████████████████████████████████████████████████████░░░   95% 
+JavaScript                 ████████████████████████████████████████████████████████████████████████████░░░   75.60%
+TypeScript                 ████████████████████████████████████████████████████████████████████████████░░░   75.60% 
 ```
 
-
-![guilyx's github stats](https://github-readme-stats.vercel.app/api?username=chuong1928&show_icons=true&hide_border=true)
+ <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</br>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Nzd2U3M2lmM2VjdnVsYnhieHZyam9hczc3cjU5ajI4ZW0xamVheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="40%" ><img alt="bug" src="https://img.shields.io/badge/c%C3%B2n_code-l%C3%A0_c%C3%B2n_bug-red?style=flat-square&logo=bug&logoColor=white" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ2OTl1b3d4aTJ2ZWFidm5reGYwdDRiemFobzF5YnJzc3o3cjY1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mq5y2jHRCAqMo/giphy.gif" width="40%" >
+
+
